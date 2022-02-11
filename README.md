@@ -51,7 +51,7 @@ FROM
    - 900+ Plugins.
    - All in one userbot in Telethon..
    
-## Old Repo is [Here](https://github.com/vishalokk/Fire-X).
+## Old Repo is [Here](https://github.com/Teameviral/Fire-X).
 
 # SUPPORT 
 
